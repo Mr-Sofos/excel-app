@@ -9,13 +9,13 @@
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
-/***/ "./src/index.js":
-/*!**********************!*\
-  !*** ./src/index.js ***!
-  \**********************/
+/***/ "./index.js":
+/*!******************!*\
+  !*** ./index.js ***!
+  \******************/
 /***/ (() => {
 
-eval("console.log(\"Hello, world!\");\n\n\n//# sourceURL=webpack://excel-app/./src/index.js?");
+eval("console.log(\"Hello, world!\");\n\n\n//# sourceURL=webpack:///./index.js?");
 
 /***/ })
 
@@ -26,7 +26,7 @@ eval("console.log(\"Hello, world!\");\n\n\n//# sourceURL=webpack://excel-app/./s
 /******/ 	// Load entry module and return exports
 /******/ 	// This entry module can't be inlined because the eval devtool is used.
 /******/ 	var __webpack_exports__ = {};
-/******/ 	__webpack_modules__["./src/index.js"]();
+/******/ 	__webpack_modules__["./index.js"]();
 /******/ 	
 /******/ })()
 ;
